@@ -1,6 +1,7 @@
-b{
+.textocentro{
  text-align: center
 }
 body{
     text-align: justify;
+    font-size: 22px;
 }
